@@ -1,0 +1,12 @@
+# Old GoDaddy page addresses -> new pages (keeps Google rankings and old links working)
+/about-us                     /about.html          301
+/marln-company-profile        /about.html          301
+/returnship-1                 /services.html#capabilities 301
+/diversity-talent-staffing-1  /services.html#capabilities 301
+/products                     /#products           301
+/ai-powered-consulting-1      /services.html#ai-consulting     301
+/engineering-services         /services.html#engineering     301
+/data-analytics               /services.html#data-analytics  301
+/technology-partners          /                    301
+/industry                     /#industries         301
+/ai-powered-consulting        /services.html#ai-consulting     301
